@@ -15,6 +15,6 @@ This project implements and validates the Schur algorithm for computing the Chol
 3. **Conclusions**: Summarizes the algorithm's performance, emphasizing its strengths with Toeplitz structures and limitations with general SPD matrices.
 
 ## Project Files
-- **`rank2_schur.py`**: Implements the Schur algorithm for SPD matrices with rank 2 displacement. Includes validation for SPD Toeplitz and general SPD matrices.
-- **`rank4_schur.py`**: Implements the Schur algorithm for least squares problems with rank 4 displacement. Validates rectangular and square Toeplitz matrices.
+- **`rank2.py`**: Implements the Schur algorithm for SPD matrices with rank 2 displacement. Includes validation for SPD Toeplitz and general SPD matrices.
+- **`rank4.py`**: Implements the Schur algorithm for least squares problems with rank 4 displacement. Validates rectangular and square Toeplitz matrices.
 - **`writeup.pdf`**: A detailed report covering methodology, validation results, and analysis of the Schur algorithm’s performance for displacement ranks 2 and 4.
